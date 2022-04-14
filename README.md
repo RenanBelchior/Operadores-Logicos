@@ -1,2 +1,2 @@
 # Operadores-Logicos
-Máximo intuito de aprender sobre Operadores Lógicos em Java.
+Máximo intuito em aprender sobre Operadores Lógicos em Java.
